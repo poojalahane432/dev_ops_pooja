@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/static-site-server
+https://roadmap.sh/projects/simple-monitoring-dashboard
